@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"net/http"
-    "github.com/adamxy/apigo/httprouter"
+    "github.com/adamxy/httprouter/router"
 )
 
 func main() {
